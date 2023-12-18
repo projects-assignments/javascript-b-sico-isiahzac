@@ -4,8 +4,8 @@
   "description": "",
   "type":"module",
   "scripts": {
-    "test:basic": "node 03-functions.test.js",
-    "test": "node --test ./03-functions.test.js"
+    "test:basic": "node 02-conditionals.test.js",
+    "test": "node --test ./02-conditionals.test.js"
   },
   "keywords": [],
   "author": "",

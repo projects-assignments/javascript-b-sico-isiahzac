@@ -26,11 +26,11 @@ describe("Condicionales en JavaScript", () => {
         if (age >= 18) {
             result = `${name} es mayor de edad.`;
         } else {
-            result = `${name} es menor de edad.`
+            result = `${name} es menor de edad.`;
         }
 
         // Edita el assert (los "???") para que pase el test
-        assert.strictEqual(result,"es mayor de edad");
+        assert.strictEqual(result, "Olga es mayor de edad.");
     })
 
 
